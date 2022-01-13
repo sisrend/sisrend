@@ -1,12 +1,12 @@
 body{
-background-color: #f0f0f0;
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Frigorifico_Anglo.JPG/800px-Frigorifico_Anglo.JPG");
 font-family: sans-serif;
 
 }
 
 .form{
 width: 400px
-margin: 50px;
+margin: auto;
 padding-top: 40px;
 
 }
