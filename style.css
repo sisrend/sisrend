@@ -23,9 +23,9 @@ border-radius: 5px;
 }
 
 .card-top{
-  background-color: red;
+  text-align: center;
   width: 420px
-margin: 150px auto 0px auto;
+margin: auto;
 
 }
 
@@ -35,7 +35,7 @@ margin-bottom: 10px;
 }
 
 .card-group > label{
-width: 400;
+width: 100%;
 color: rgb(75, 75, 75);
 display: block;
 
@@ -44,7 +44,7 @@ display: block;
 .card-group > input{
 border-radius: 5px;
 outline: 0;
-width: 100%;
+width: 400px;
 height: 25px;
 padding: 5px;
 
