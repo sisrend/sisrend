@@ -23,7 +23,7 @@ border-radius: 5px;
 }
 
 .card-top{
-text-align: center;
+  background-color: red;
   width: 420px
 margin: 150px auto 0px auto;
 
